@@ -13,7 +13,3 @@ def main():
     image_to_ascii(ASCII_COLORS, archivo_imagen, redux_factor, largo_modifier,
                    dither, save_dithered_image, archivo_output)
     
-
-
-if __name__ == "__main__":
-    main()
